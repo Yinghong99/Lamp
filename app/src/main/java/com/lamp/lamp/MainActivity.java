@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("dd", "ww");
         Log.d("dd","ww");
+        Log.d("dd","ww");
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
